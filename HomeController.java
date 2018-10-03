@@ -6,7 +6,7 @@ class HomeController {
 
 	public static void main(String args[]) {
 		
-		String dateTime = serviceUtility.getCurrentDateTime();
-		System.out.println("Current Date Time is: " + dateTime)
+		String dateTimeObject = serviceUtility.getCurrentDateTime();
+		System.out.println("The Current Date Time is : " + dateTimeObject)
 	}
 }
