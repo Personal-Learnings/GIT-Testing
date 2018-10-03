@@ -1,0 +1,9 @@
+public class PrintWriter {
+	public static void main(String args[]) {
+<<<<<<< HEAD
+		System.out.println("Hello Ranjith");
+=======
+		System.out.println("Hello Madan");
+>>>>>>> a728f4a217539831557bea05bf4bf6886152fa29
+	}
+}
