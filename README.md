@@ -1,6 +1,2 @@
 # GIT-Testing
-Hello Edited this VIA GIT MAC CLI
-
-GET THE CHANGE
-
-Newly Added Code
+This is the Updated File
